@@ -1,0 +1,14 @@
+C:\Users\Woltik\RiderProjects\CryptoLabApp\obj\Debug\net9.0-windows\CryptoLabApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Woltik\RiderProjects\CryptoLabApp\obj\Debug\net9.0-windows\CryptoLabApp.AssemblyInfoInputs.cache
+C:\Users\Woltik\RiderProjects\CryptoLabApp\obj\Debug\net9.0-windows\CryptoLabApp.AssemblyInfo.cs
+C:\Users\Woltik\RiderProjects\CryptoLabApp\obj\Debug\net9.0-windows\CryptoLabApp.csproj.CoreCompileInputs.cache
+C:\Users\Woltik\RiderProjects\CryptoLabApp\bin\Debug\net9.0-windows\CryptoLabApp.exe
+C:\Users\Woltik\RiderProjects\CryptoLabApp\bin\Debug\net9.0-windows\CryptoLabApp.deps.json
+C:\Users\Woltik\RiderProjects\CryptoLabApp\bin\Debug\net9.0-windows\CryptoLabApp.runtimeconfig.json
+C:\Users\Woltik\RiderProjects\CryptoLabApp\bin\Debug\net9.0-windows\CryptoLabApp.dll
+C:\Users\Woltik\RiderProjects\CryptoLabApp\bin\Debug\net9.0-windows\CryptoLabApp.pdb
+C:\Users\Woltik\RiderProjects\CryptoLabApp\obj\Debug\net9.0-windows\CryptoLabApp.dll
+C:\Users\Woltik\RiderProjects\CryptoLabApp\obj\Debug\net9.0-windows\refint\CryptoLabApp.dll
+C:\Users\Woltik\RiderProjects\CryptoLabApp\obj\Debug\net9.0-windows\CryptoLabApp.pdb
+C:\Users\Woltik\RiderProjects\CryptoLabApp\obj\Debug\net9.0-windows\CryptoLabApp.genruntimeconfig.cache
+C:\Users\Woltik\RiderProjects\CryptoLabApp\obj\Debug\net9.0-windows\ref\CryptoLabApp.dll
